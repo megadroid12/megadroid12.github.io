@@ -1,0 +1,22 @@
+{
+    "kanallar": [
+		{
+                "channel_name": "Radio Italia TV",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8"
+					}
+				]
+        },
+		{
+                "channel_name": "Radio Italia TV",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8"
+					}
+				]
+        }
+  ]
+}
