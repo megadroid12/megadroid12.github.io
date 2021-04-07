@@ -1,0 +1,22 @@
+{
+    "kanallar": [
+        {
+                "channel_name": "HISTORY LAB",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "channel_name": "Canale 7",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"rtmp://wms.shared.streamshow.it:80/canale7/canale7"
+					}
+				]
+        }
+  ]
+}
